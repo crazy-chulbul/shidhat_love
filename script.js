@@ -1811,7 +1811,7 @@ heartLetterBtn.addEventListener("click", () => {
    heartLetterText.innerHTML = `
     <img 
         class="heart-letter-image" 
-        src="images/c3.jpeg" 
+        src="c3.jpeg" 
         alt="Chulbul" 
     >
 `;
